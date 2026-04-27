@@ -4179,6 +4179,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 257;
+				DEVELOPMENT_TEAM = QYC63ZTHKX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Open in Yattee/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Open in Yattee";
@@ -4190,7 +4191,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.2;
-				PRODUCT_BUNDLE_IDENTIFIER = "stream.yattee.app.Open-in-Yattee";
+				PRODUCT_BUNDLE_IDENTIFIER = "stream.yattee-invidious-sync.app.Open-in-Yattee";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -4207,10 +4208,9 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
 				CODE_SIGN_ENTITLEMENTS = "Open in Yattee/Open in Yattee.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 257;
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = QYC63ZTHKX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Open in Yattee/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Open in Yattee";
@@ -4222,10 +4222,9 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.2;
-				PRODUCT_BUNDLE_IDENTIFIER = "stream.yattee.app.Open-in-Yattee";
+				PRODUCT_BUNDLE_IDENTIFIER = "stream.yattee-invidious-sync.app.Open-in-Yattee";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "match AppStore stream.yattee.app.Open-in-Yattee";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
